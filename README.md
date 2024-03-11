@@ -6,7 +6,7 @@ This project serves as the foundational work for Laboratory No. 2 in the Video G
 
 ## Installation
 To install this project, please download it directly from this page.
-![Installation Guide Screenshot](https://github.com/marina01p/Video-game-design-Course/blob/main/pr%20ndownload%20instructions.png)
+![Installation Guide Screenshot](https://github.com/marina01p/Video-game-design-Course/blob/main/Images/pr%20ndownload%20instructions.png)
 
 ## Enjoy!
 Happy designing :)
